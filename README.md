@@ -1,6 +1,6 @@
 <!-- GIF ANIMADO NO TOPO (centralizado) -->
 <p align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/circuit.png" width="80" />
+  <img src="https://img.icons8.com/fluency/96/000000/circuit.png" width="80" /](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif>
 </p>
 
 ---
