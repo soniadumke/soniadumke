@@ -1,6 +1,11 @@
-<!-- GIF ANIMADO NO TOPO (centralizado) -->
+<!-- BANNER (imagem larga no topo) -->
 <p align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/circuit.png" width="80" /](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif>
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="100%" alt="Banner">
+</p>
+
+<!-- GIF ANIMADO PRINCIPAL (centralizado) -->
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif" width="500" alt="Coding">
 </p>
 
 ---
@@ -43,7 +48,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-
+---
 
 <div align="center">
   <code> ⚡︎˖ ࣪circuits • curiosity ⚡︎˖ ࣪</code>
