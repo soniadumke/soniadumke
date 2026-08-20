@@ -1,6 +1,6 @@
 <!-- GIF ANIMADO NO TOPO (centralizado) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding">
+  <img src="https://img.icons8.com/fluency/96/000000/circuit.png" width="80" />
 </p>
 
 ---
@@ -16,11 +16,11 @@
 
 ### 🎯 Interesses
 
-- [𝜗ৎ] Eletrônica  
-- [𝜗ৎ] Tecnologia  
-- [𝜗ৎ] Computação  
-- [𝜗ৎ] Hardware  
-- [𝜗ৎ] Software  
+ 𝜗ৎ Eletrônica  
+ 𝜗ৎ Tecnologia  
+ 𝜗ৎ Computação  
+ 𝜗ৎ Hardware  
+ 𝜗ৎ Software  
 
 ---
 
@@ -43,16 +43,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical" width="48%" />
-</p>
-
----
 
 <div align="center">
   <code> ⚡︎˖ ࣪circuits • curiosity ⚡︎˖ ࣪</code>
