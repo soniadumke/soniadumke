@@ -1,16 +1,35 @@
-## Hi there 👋
+# Me chamo Sônia Dumke!
 
-<!--
-**soniadumke/soniadumke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+soniadumke:~$ whoami
 
-Here are some ideas to get you started:
+Computer Science student
+Apaixonada por tecnologia e eletronica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ interesses
+
+⚡ Eletronica
+💻 Tecnologia
+🧠 Computação
+🔧 Hardware
+🖥️ Software
+
+$ skills
+> Java
+> SQL
+> HTML / CSS
+
+$ currently_learning
+> Python
+> Git & GitHub
+
+$ about
+Amo aprender cada vez mais sobre a tecnologia,
+desde o código ao hardware
+
+Sou fascinada por eletronica e aprecio muito explorar
+a conexão entre o software, hardware e a computação
+
+<div align="center">
+⚡ code • circuits • curiosity ⚡
+</div> ```
